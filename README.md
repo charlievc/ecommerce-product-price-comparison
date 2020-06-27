@@ -34,8 +34,10 @@ $ Hola! Please enter an item you want to search: Herschel Little America
 
 Sample output:
 1. Statistics Table
-![alt text](https://github.com/charlievc/ecommerce-product-price-comparison/tree/master/img_sample/statTable.jpg?raw=true)
+
+![Alt text](https://github.com/charlievc/ecommerce-product-price-comparison/blob/master/img_sample/statTable.jpg)
 
 2. Statistics Graph
-![alt text](https://github.com/charlievc/ecommerce-product-price-comparison/tree/master/img_sample/statPlot.jpg?raw=true)
+
+![Alt text](https://github.com/charlievc/ecommerce-product-price-comparison/blob/master/img_sample/statPlot.jpg)
 
