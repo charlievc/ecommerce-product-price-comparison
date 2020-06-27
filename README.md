@@ -2,7 +2,7 @@
 
 This simple tool enables the user to search for a specific item on the 3 popular eCommerce platforms for the purpose of:
 * Comparing product price distributions between different eCommerce websites for a consumer point of view.
-* Leverage on the market selling price of a product by knowing the average, minimum, maximum, 25th, 50th, up to 75th percentile pricing point.
+* Leverage on the market selling price of a product by knowing the average, minimum, maximum, 25th, 50th, up to 75th percentile pricing point for a seller point of view.
 
 Limitations:
 * The default online retail sites to be searched are: Shopee, eBay and Lazada.  (PH websites)
